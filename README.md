@@ -40,4 +40,4 @@ Start the server
 
 ## Acknowledgements
 
-This project was completed as part of [John Smilga's](https://github.com/john-smilgan) React course. 
+This project was completed as part of [John Smilga's](https://github.com/john-smilga) React course. 
